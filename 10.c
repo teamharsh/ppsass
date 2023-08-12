@@ -30,3 +30,6 @@ int main()
  return 0;
 
 }
+
+
+https://www.codingninjas.com/studio/contests/weekend-contest-86?utm_source=campus-ambassador&utm_medium=WK86&utm_campaign=cn16475
